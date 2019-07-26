@@ -177,7 +177,7 @@ graph LR;
 
   落点示意图：
 
-  ![1564115867531](.\assets\luodian.png)
+  ![1564115867531](assets/luodian.png)
 
 - StrikePosition：身位
 
@@ -190,7 +190,7 @@ graph LR;
   | F    | Forehand  | 正手位 | 在正手区使用正手击球       |
   | T    | Back Turn | 反侧身 | 在正手区使用反手击球       |
 
-  ![1564116358227](.\assets\shenwei.png)
+  ![1564116358227](/assets/shenwei.png)
 
 - StrikeTech：技术
 
